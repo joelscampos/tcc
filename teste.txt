@@ -1,1 +1,5 @@
-asksjlkfjlkjlkjdf
+public class Question {
+    public String getDescription() {
+        return description;
+    }
+}
